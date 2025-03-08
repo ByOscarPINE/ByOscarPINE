@@ -1,5 +1,3 @@
-<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUslXqwlwWkZ9BLwBgLp4kXz2MImmzQbltQ&s"  />
-
 ###
 
 <h1 align="center">Hi!! 👋 What are you looking for?</h1>
@@ -85,7 +83,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByOscarPINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByOscarPINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
