@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Oscar from Mexico<br><br>- 📚 I'm currently student of Software Engineering<br>- ⚡ In my free time I play videogames</p>
+<p align="left">I'm Oscar from Mexico<br><br>- 📚 I'm currently student of Software Development and Management Engineering<br>- ⚡ In my free time I play videogames</p>
 
 ###
 
